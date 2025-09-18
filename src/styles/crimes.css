@@ -1,0 +1,75 @@
+.crimes-section {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1a1a1a;
+  border-bottom: 2px solid #2d2d2d;
+  padding: 4rem 2rem;
+}
+
+.crimes-content {
+  max-width: 1200px;
+  width: 100%;
+}
+
+.crimes-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  margin-top: 2rem;
+}
+
+.crime-column {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.crime-box {
+  background-color: #232323;
+  padding: 2.5rem;
+  border: 2px solid #333;
+  text-align: center;
+}
+
+.crime-header {
+  font-family: 'Orbitron', monospace;
+  font-size: 1.1rem;
+  font-weight: 900;
+  color: #ff6b6b;
+  margin-bottom: 1.5rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border-bottom: 1px solid #444;
+  padding-bottom: 1rem;
+}
+
+.crime-content {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #d0d0d0;
+  letter-spacing: 0.5px;
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .crimes-section {
+    padding: 2rem 1rem;
+  }
+  
+  .crimes-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .crime-box {
+    padding: 2rem;
+  }
+  
+  .crime-header {
+    font-size: 1rem;
+    letter-spacing: 1px;
+  }
+}
