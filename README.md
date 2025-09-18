@@ -1,7 +1,7 @@
 # <div align="center"> crimeonbonk
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dmipavrnm/image/upload/v1758191513/att.W49a8sOT1abzPVD5cAOXx5gWgZXWq_DDDIpY_gblv6U_hmyvpw.ico" alt="crimeonbonk Logo" width="100">
+  <img src="https://res.cloudinary.com/dmipavrnm/image/upload/v1758191513/att.W49a8sOT1abzPVD5cAOXx5gWgZXWq_DDDIpY_gblv6U_hmyvpw.ico" alt="crimeonbonk Logo" width="250">
   
   <br><br>
   
