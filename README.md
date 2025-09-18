@@ -5,8 +5,8 @@
   
   <br><br>
   
-  <a href="https://x.com/crimeonbonk" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-@crimeonbonk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on X">
+  <a href="https://x.com/crime_coin_sol" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-@crime_coin_sol-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on X">
   </a>
 </div>
 
